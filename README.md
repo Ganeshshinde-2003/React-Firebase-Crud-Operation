@@ -4,7 +4,7 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using F
 ## Getting Started
 To get started with the project, follow the steps below:
 
-##Prerequisites
+## Prerequisites
 - Node.js 
 - Firebase account and project set up
 ## Installation
