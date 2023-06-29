@@ -34,7 +34,7 @@ export const deleteHotel = async (
 
 // edit a documment
 
-export const updateHotel = async (id: string | undefined, docData: any) => {
+export const updateHotel = async (id: String | undefined, docData: any) => {
   const getHotel = doc(firestore, `hotels/${id}`);
   await setDoc(getHotel, docData, { merge: true });
 };
