@@ -22,7 +22,7 @@ function Navbar() {
             borderRadius: "8px",
           }}
         >
-          New Hotels
+          Add Hotels
         </Link>
       </div>
     </nav>
