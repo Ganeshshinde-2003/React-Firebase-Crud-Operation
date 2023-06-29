@@ -248,7 +248,7 @@ hr {
   }
   .hotel-preview {
     width: 90%;
-    margin: 20px 0;
+    margin: 20px auto;
     border-bottom: 1px solid #fafafa;
   }
   .highlights {
